@@ -9,10 +9,6 @@ A powerful and optimized automation script designed for smooth performance, task
 - ⚡ Fast and optimized performance
 - 🎯 Automatic task handling system
 - 📊 Real-time logging panel
-- 🔔 Notification system
-- 💾 Local storage support
-- 🧠 Smart task completion tracking
-- 🎨 Clean and minimal UI
 
 ---
 
