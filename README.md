@@ -1,4 +1,4 @@
-# 🚀 Abid Dev Automation Script
+# 🚀 Discord Quest Completer Script ( Discord Console Only )
 
 A powerful and optimized automation script designed for smooth performance, task handling, and clean UI experience.
 
